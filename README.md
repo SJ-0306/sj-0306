@@ -8,7 +8,7 @@
 ### About Me
 
 * **Primary OS:** Fedora / Void / Arch (Hyprland)
-* **Current Focus:** Hardening Linux kernels,and secure deployment pipelines.
+* **Current Focus:** Hardening Linux kernels, and secure deployment pipelines.
 
 ---
 
