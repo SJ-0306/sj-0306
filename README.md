@@ -12,7 +12,7 @@
 
 ---
 
-### 📊 Tech Stack & Arsenal
+### 📊 Tech Stack 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Bash, Python, Markdown, HashiCorp Configuration Language (HCL), YAML |
