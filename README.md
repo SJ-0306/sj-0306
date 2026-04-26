@@ -1,16 +1,26 @@
-## Hi there 👋
+# Swaminathan Jagadeesan
 
-<!--
-**SJ-0306/sj-0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Cybersecurity Student | DevSecOps & Cloud Security **
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+* **Primary OS:** Fedora / Void / Arch (Hyprland)
+* **Current Focus:** Hardening Linux kernels,and secure deployment pipelines.
+
+---
+
+### 📊 Tech Stack & Arsenal
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Bash, Python, Markdown, HashiCorp Configuration Language (HCL), YAML |
+| **Infrastructure** | Terraform, Linux (RHEL, Fedora, Void, Arch, Debian), Cloud Security |
+| **Observability** | Prometheus, Grafana, Node Exporter |
+| **Security** | System Auditing, DevSecOps, Compliance |
+
+---
+
+### 🏛️ Active Projects
+* **[DotGuard](https://github.com/SJ-0306/DotGuard)** - A real-time configuration drift detection & deployment engine using Systemd, Prometheus, and Grafana, and Terraform.
