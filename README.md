@@ -19,8 +19,3 @@
 | **Infrastructure** | Terraform, Linux (RHEL, Fedora, Void, Arch, Debian), Ansible |
 | **Observability** | Prometheus, Grafana, Node Exporter |
 | **Security** | System Auditing, DevSecOps, Compliance |
-
----
-
-### 🏛️ Active Projects
-* **[DotGuard](https://github.com/SJ-0306/DotGuard)** - A real-time configuration drift detection & deployment engine using Systemd, Prometheus, and Grafana, and Terraform.
